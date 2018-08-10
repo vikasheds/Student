@@ -1,2 +1,1 @@
-# school
-New school project
+# cmc
